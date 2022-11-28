@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo{
+    width: 130px;
+    height: 130px;
+}
+
+.productos {
+    padding: 10px;
+    margin-left: 2px;
+    width: 100%;
+    justify-content:space-around;
+    align-items: center;
+    transition: 2s; 
+}
+
+.productos:hover {
+    transform: rotateY(180deg);
+}
+
+header{
+    background-color: bisque;
+}
+
+main{
+    background-color: rgb(255, 238, 238);
+}
