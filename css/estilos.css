@@ -20,6 +20,11 @@
 .logoMokshauno:hover{
     transform: rotateY(180deg);
 }
+.background-menu{
+    background-color: peru;
+    padding: 1rem!important;
+}
+
 .productos {
     padding: 10px;
     margin-left: 2px;
@@ -51,7 +56,8 @@ header{
 }
 
 main{
-    background-color: rgb(255, 238, 238);
+    background-color: rgb(253, 250, 250);
+  
 }
 
 
@@ -116,9 +122,6 @@ main{
         
      }
 
-     .fotografias{
-    
-    }
 }
 
 .col-md-auto {
